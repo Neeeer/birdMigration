@@ -1,0 +1,54 @@
+
+
+
+.labels{
+-fx-text-fill:white;
+}
+.button{
+    -fx-border-color: transparent;
+    -fx-border-width: 0;
+    -fx-background-radius: 5;
+    -fx-font-size: 24;
+    -fx-background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+.non-selected-language{
+-fx-text-fill:dodgerblue;
+}
+
+.selected-language{
+-fx-text-fill:deepskyblue;
+}
+
+
+.selected-species{
+-fx-background-color:#338eac;
+-fx-background-radius: 12;
+}
+
+.unselected-species{
+-fx-background-color:#2e5776;
+-fx-background-radius: 12;
+}
+
+.species-description{
+-fx-background-color:#e2e3e4;
+-fx-background-radius: 12;
+-fx-text-fill: black;
+}
+
+.selected-species{
+-fx-background-color:#338eac;
+-fx-background-radius: 12;
+}
+
+.unselected-species{
+-fx-background-color:#2e5776;
+-fx-background-radius: 12;
+}
+
+.species-description{
+-fx-background-color:#e2e3e4;
+-fx-background-radius: 12;
+}
